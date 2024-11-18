@@ -1,0 +1,491 @@
+﻿<!--
+Author: Jônatas Medeiros de Mendonça 
+Edit: Helton Alves de Azevedo
+E-mail:helton.alves.azevedo@hotmail.com
+E-mail: jonatasmm@gmail.com
+Site: www.jonatas.me
+Data: Setembro/2013
+-->
+
+<!doctype html>
+<!--[if IEMobile]><html class="iemobile" lang="pt-br"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8" lang="pt-br"> <![endif]-->
+<!--[if gt IE 8]><!-->  <html class="no-js" lang="pt-br"> <!--<![endif]-->
+
+<head>
+  <base href="http://www.labnvh.unb.br/33-noc4/4-sobrac2023" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="author" content="Super User" />
+	<meta name="x-ua-compatible" content="IE=edge,chrome=1" />
+	<title>XXX Encontro da Sociedade Brasileira de Acústica | Sobrac 2023</title>
+	<link href="/templates/NIT_v3/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+	<link href="/templates/NIT_v3/css/normalize.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/NIT_v3/css/template.css?f=0&amp;b=0&amp;fa=0&amp;v=1" rel="stylesheet" type="text/css" />
+	<link href="http://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css" />
+	<link href="http://www.labnvh.unb.br/modules/mod_gruemenu/css/styles.css" rel="stylesheet" type="text/css" />
+	<script src="/media/jui/js/jquery.min.js?18b10cae97181f3f5803ffc13b7c6fc3" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-noconflict.js?18b10cae97181f3f5803ffc13b7c6fc3" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-migrate.min.js?18b10cae97181f3f5803ffc13b7c6fc3" type="text/javascript"></script>
+	<script src="/media/system/js/caption.js?18b10cae97181f3f5803ffc13b7c6fc3" type="text/javascript"></script>
+	<script src="http://www.labnvh.unb.br/modules/mod_gruemenu/js/touchwipe.min.js" type="text/javascript"></script>
+	<script src="http://www.labnvh.unb.br/modules/mod_gruemenu/js/sidr.js" type="text/javascript"></script>
+	<script src="http://www.labnvh.unb.br/modules/mod_gruemenu/js/script.js" type="text/javascript"></script>
+	<script type="text/javascript">
+jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});
+jQuery(document).ready(function($) {
+		$( '.navigation-toggle-89' ).sidr( {
+			name     : 'sidr-main',
+			source   : '#sidr-close, #gruemenu',
+			side     : 'left',
+			displace : false
+		} );
+		$( '.sidr-class-toggle-sidr-close' ).click( function() {
+			$.sidr( 'close', 'sidr-main' );
+			return false;
+		} );
+});
+
+	</script>
+	<!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js" type="text/javascript"></script><script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js" type="text/javascript"></script><![endif]-->
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+  <link rel="apple-touch-icon-precomposed" href="/templates/NIT_v3/images/apple-touch-icon-57x57-precomposed.png">
+  <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/templates/NIT_v3/images/apple-touch-icon-72x72-precomposed.png">
+  <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/templates/NIT_v3/images/apple-touch-icon-114x114-precomposed.png">
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/templates/NIT_v3/images/apple-touch-icon-144x144-precomposed.png">
+  
+  
+  <!-- Le styles -->
+    <link href="/templates/NIT_v3/css/bootstrap.css" rel="stylesheet">
+    <link href="/templates/NIT_v3/css/barra.css" rel="stylesheet">
+    <link href="/templates/NIT_v3/css/style.css" rel="stylesheet">
+    <link href="/templates/NIT_v3/css/settings.css" rel="stylesheet">
+    <link href="/templates/NIT_v3/css/slider_style.css" rel="stylesheet">
+    <link href="/templates/NIT_v3/css/superfish.css" rel="stylesheet">
+    <link href="/templates/NIT_v3/css/jquery.jtweetsanywhere-1.3.1.css" rel="stylesheet">
+    <link rel="stylesheet" href="/templates/NIT_v3/css/prettyPhoto.css" type="text/css" media="screen" charset="utf-8" />
+     <!--Le Google Fonts-->
+    <link href='http://fonts.googleapis.com/css?family=Droid+Sans+Mono' rel='stylesheet' type='text/css'>
+    <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+	
+	<style>
+	
+	/* Activates hovering the main items to show the sub items */
+@media (min-width: 980px) {
+   .nav-pills > li > a,
+   .dropdown-menu {
+      margin: 0;
+   }
+ 
+   .nav-pills > li.dropdown:hover ul.dropdown-menu,
+   .nav-tabs > li.dropdown:hover ul.dropdown-menu {
+      display: block;
+   }
+ 
+   .nav-pills > li.dropdown ul.dropdown-menu .dropdown-submenu .dropdown-menu,
+   .nav-tabs > li.dropdown ul.dropdown-menu .dropdown-submenu .dropdown-menu {
+      display: none;
+   }
+ 
+   .nav-pills > li.dropdown ul.dropdown-menu .dropdown-submenu:hover .dropdown-menu,
+   .nav-tabs > li.dropdown ul.dropdown-menu .dropdown-submenu:hover .dropdown-menu {
+      display: block;
+   }
+}
+	</style>
+
+    <!-- Le fav and touch icons -->
+    <link rel="shortcut icon" href="/templates/NIT_v3/assets/ico/favicon.ico">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/templates/NIT_v3/assets/ico/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/templates/NIT_v3/assets/ico/apple-touch-icon-114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/templates/NIT_v3/assets/ico/apple-touch-icon-72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="/templates/NIT_v3/assets/ico/apple-touch-icon-57-precomposed.png">
+    
+  <!--[if lte IE 8]>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+      <![endif]-->
+</head>
+  
+<body>
+
+  
+  <!-- INICIO DO CODIGO -->
+  
+  <!-- <div id="barra-brasil">
+    <div class="barra">
+            <ul>
+                <li><a href="http://www.acessoainformacao.gov.br" class="ai" title="Acesso à informação"></a></li>
+                <li><a href="http://www.brasil.gov.br" class="brasilgov" title="Portal de Estado do Brasil"></a></li>
+            </ul>
+      </div>
+    </div> --!>
+ 
+<div id="menu_unb">
+                        <div class="container">
+                                <ul>
+                                        
+                                </ul>
+                        </div>
+                </div>
+<div class="container ">
+
+    <div class="row">
+    
+        <div class="span9 top20"><i class="logo"></i></div>
+    <div id="nav1" class="span9 top 20">
+        <div class="pull-left">
+
+             
+        </div>
+
+
+    </div>
+    
+    
+    
+
+    </div>
+    <hr class="divider-extra"
+   
+  <section class="slider">
+        <div class="flexslider">
+          
+            </ul>
+        </div>
+    </section>
+        
+   
+    
+   <div  class="row">
+        <div class="span9">
+          
+<style>
+
+/* Top-to-Bottom */
+#gruemenu.grue_89 ul li { margin:0!important; padding:0!important }
+#gruemenu.grue_89 > ul > li {float: left; display: inline-block; }
+#gruemenu.grue_89 > ul > li.has-sub > a::after {border-top-color: #FFFFFF;  right: 17px; top: 50%; margin-top:-5px; }
+#gruemenu.grue_89 > ul > li.has-sub.active > a::after,
+#gruemenu.grue_89 > ul > li.has-sub:hover > a {border-top-color: #FFFFFF;}
+#gruemenu.grue_89 ul ul { position: absolute; left: -9999px; top: auto; padding-top: 6px;}
+#gruemenu.grue_89 > ul > li > ul::after { content: ""; position: absolute; width: 0; height: 0; border: 5px solid transparent; top: -3px; left: 20px;}
+#gruemenu.grue_89 ul ul ul::after {content: "";position: absolute; width: 0; height: 0; border: 5px solid transparent;  top: 11px; left: -3px;}
+#gruemenu.grue_89 > ul > li:hover > ul {top: auto;left: 0;}
+#gruemenu.grue_89 ul ul ul {padding-top: 0;padding-left: 6px;}
+#gruemenu.grue_89 ul ul > li:hover > ul {left: 220px;top: 0;}
+#gruemenu.grue_89 > ul > li > ul::after { border-bottom-color: #008B3C}
+#gruemenu.grue_89 ul ul ul::after {border-right-color:  #008B3C }
+#gruemenu.grue_89 ul ul li.has-sub > a::after {border-left-color: #FFFFFF;   right: 17px; top: 14px; }
+#gruemenu.grue_89 ul ul li.has-sub.active > a::after,
+#gruemenu.grue_89 ul ul li.has-sub:hover > a::after {border-left-color:#FFFFFF; }
+#gruemenu.grue_89 { background: #008B3C; }
+#gruemenu.grue_89 ul li a, #gruemenu.grue_89 
+#gruemenu.grue_89 {font-family: "Open Sans", Arial, Helvetica, sans-serif ;}
+#gruemenu.grue_89,
+#gruemenu.grue_89 ul,
+#gruemenu.grue_89 ul li,
+#gruemenu.grue_89 ul > li > a { font-size:12px}
+#gruemenu.grue_89 ul > li > ul > li > a { font-size:11px!important}
+#gruemenu.grue_89 > ul > li > a { color: #FFFFFF; text-transform:uppercase}
+#gruemenu.grue_89 > ul > li:hover > a,
+#gruemenu.grue_89 > ul > li > a:hover,
+#gruemenu.grue_89 > ul > li.active > a {color: #FFFFFF; background: #008B3C;}
+#gruemenu.grue_89 ul ul li:hover > a,
+#gruemenu.grue_89 ul ul li.active > a {color: #FFFFFF; background: #008B3C;}
+#gruemenu.grue_89 ul ul li a, #navigation-toggle {color: #FFFFFF; background: #008B3C;}
+#gruemenu.grue_89 ul ul li:hover > a,
+#gruemenu.grue_89 ul ul li.active > a,
+#navigation-toggle:hover {color: #FFFFFF;background:#008B3C;}
+#gruemenu.grue_89 #menu-button{ color: #FFFFFF; }
+#gruemenu.grue_89 {-webkit-border-radius: 0px; -moz-border-radius: 0px; -o-border-radius: 0px; border-radius: 0px;  border-radius: 0px;}
+#gruemenu.grue_89 ul li:first-child > a  { border-top-left-radius: 0px; border-bottom-left-radius: 0px;}
+#gruemenu.grue_89 ul ul li:first-child > a { border-top-left-radius: 0px; border-top-right-radius: 0px; border-bottom-left-radius: 0px; border-bottom-right-radius: px;}
+#gruemenu.grue_89 ul ul li:last-child > a {border-top-left-radius: 0px; border-top-right-radius: 0px; border-bottom-left-radius: 0px; border-bottom-right-radius: 0px;}
+#gruemenu.grue_89 #menu-button::after {border-top: 2px solid #FFFFFF; border-bottom: 2px solid #FFFFFF; }
+#gruemenu.grue_89 #menu-button::before {border-top: 2px solid #FFFFFF; }
+/* Enable Fixed Menu */
+/* Enable Mobile Menu */
+@media screen and (max-width: 820px) {
+#navigation-toggle { z-index:999; display:block; position:fixed; top:10px; right:10px; padding:10px 10px; box-shadow:0px 1px 1px rgba(0,0,0,0.15);	border-radius:3px;	text-shadow:0px 1px 0px rgba(0,0,0,0.5); font-size:20px;		transition:color linear 0.15s; text-decoration: none !important; }
+#navigation-toggle span.nav-line { display:block; height:3px; width:20px; margin-bottom:4px; background:#fff}
+#navigation-toggle:hover {text-decoration:none;	}
+#gruemenu.grue_89  {display: none;}
+}	
+</style>
+
+<a href="#sidr-main" id="navigation-toggle" class="navigation-toggle-89"><span class="nav-line"></span><span class="nav-line"></span><span class="nav-line"></span></a>
+<div id="sidr-close"><a href="#sidr-close" class="toggle-sidr-close"></a></div>
+<div id="gruemenu" class="grue_89 ">
+<ul >
+<li class="item-101 current active"><a href="/" >O Lab NVH</a></li><li class="item-102 has-sub parent"><a href="/ensino" target="_blank" >Ensino</a><ul class="sub-menu"><li class="item-112"><a href="/ensino/graduacao" >Graduação</a></li><li class="item-113"><a href="/ensino/pos-graduacao" >Pós-Graduação</a></li></ul></li><li class="item-103 has-sub parent"><a href="#" >Pesquisas</a><ul class="sub-menu"><li class="item-123"><a href="/pesquisas/projetos1-de-pesquisa" >Projetos de Pesquisa</a></li><li class="item-125"><a href="/pesquisas/linhas-de-pesquisa" >Linhas de Pesquisa</a></li></ul></li><li class="item-105 has-sub parent"><a href="#" >Publicações</a><ul class="sub-menu"><li class="item-119"><a href="/grupos/dissertacoes-e-tcc" >Dissertações e TCC</a></li><li class="item-120"><a href="/grupos/livros" >Livros</a></li><li class="item-121"><a href="/grupos/artigos-cientificos" >Artigos Científicos</a></li></ul></li><li class="item-106 has-sub parent"><a href="#" >Equipe</a><ul class="sub-menu"><li class="item-110"><a href="/equipe/integrantes" >Integrantes</a></li><li class="item-111"><a href="/equipe/ex-integrantes" >Ex Integrantes</a></li></ul></li><li class="item-122"><a href="/equipamentos" >Equipamentos</a></li><li class="item-126"><a href="/contato" >Contato</a></li></ul>
+</div>
+
+<a href="http://thegrue.org/inmotionhosting-review/" id="TheGrue89">reviews of Inmotion hosting company</a>
+<script type="text/javascript">
+  var el = document.getElementById('TheGrue89');
+  if(el) {el.style.display += el.style.display = 'none';}
+</script>
+
+            <div class="item-page" itemscope itemtype="https://schema.org/Article">
+	<meta itemprop="inLanguage" content="pt-BR" />
+		<div class="page-header">
+		<h1> O Lab NVH </h1>
+	</div>
+	
+		
+			<div class="page-header">
+		<h2 itemprop="headline">
+			XXX Encontro da Sociedade Brasileira de Acústica | Sobrac 2023		</h2>
+							</div>
+					
+		
+						<dl class="article-info muted">
+
+		
+			<dt class="article-info-term">
+									Detalhes							</dt>
+
+			
+			
+			
+			
+										<dd class="published">
+				<span class="icon-calendar" aria-hidden="true"></span>
+				<time datetime="2015-10-16T18:15:00+00:00" itemprop="datePublished">
+					Publicado: 16 Outubro 2015				</time>
+			</dd>			
+		
+					
+			
+						</dl>
+	
+	
+		
+								<div itemprop="articleBody">
+		<div>
+<p class="MsoNormal"> </p>
+<p style="box-sizing: border-box; margin: 0px 0px 10px; font-family: 'Roboto Slab'; font-size: 16px;"><span style="font-size: 14.0pt; font-family: 'Open Sans',sans-serif; color: black; mso-color-alt: windowtext;"><span style="font-size: 14pt; line-height: 107%;">O </span><b style="box-sizing: border-box;"><span style="box-sizing: border-box;">XXX Encontro da Sociedade Brasileira de Acústica</span></b><span style="box-sizing: border-box;"> é um evento científico na área de acústica e vibrações, promovido pela </span><span style="box-sizing: border-box;">Sociedade Brasileira de Acústica </span><span style="box-sizing: border-box;">(Sobrac)</span><span style="box-sizing: border-box;">, </span><span style="box-sizing: border-box;">que ocorrerá </span><b style="box-sizing: border-box;"><span style="box-sizing: border-box;">entre 19 e 22 de novembro de 2023</span></b><span style="box-sizing: border-box;"> </span><span style="box-sizing: border-box;">na cidade de </span><b style="box-sizing: border-box;"><span style="box-sizing: border-box;">Natal/RN</span></b><span style="box-sizing: border-box;">.</span></span></p>
+<p style="margin: 0cm 0cm 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; box-sizing: border-box;"> </p>
+<p style="margin: 0cm 0cm 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; box-sizing: border-box;"><span style="font-size: 14.0pt; font-family: 'Open Sans',sans-serif; color: black; mso-color-alt: windowtext;"><span style="box-sizing: border-box;">A Sobrac fará 40 anos em 2024 e a constância dos seus encontros, sendo o maior do Brasil na área, agrega tanto pessoas físicas (pesquisadores, profissionais e estudantes), como instituições públicas e privadas com interesse em acústica e vibrações.</span></span></p>
+<p style="margin: 0cm 0cm 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; box-sizing: border-box;"> </p>
+<p class="MsoNormal"><span style="font-size: 12pt; text-align: justify;"><span style="color: black; font-family: 'Open Sans', sans-serif; font-size: 14pt; box-sizing: border-box;">O evento ocorre a nível <b style="box-sizing: border-box;">nacional</b> e é único nesta área. Além da <b style="box-sizing: border-box;">programação científica</b>, que conta com </span><span style="color: black; font-family: 'Open Sans', sans-serif; font-size: 14pt; box-sizing: border-box;">apresentação de trabalhos</span><span style="color: black; font-family: 'Open Sans', sans-serif; font-size: 14pt; box-sizing: border-box;"> em 28</span><span style="color: black; font-family: 'Open Sans', sans-serif; font-size: 14pt; box-sizing: border-box;"> áreas temáticas, palestras de temas diversificados, minicursos e mesas redondas, o evento possui <b style="box-sizing: border-box;">feira de exposição</b> com materiais e produtos, além de exposição de trabalhos de <b style="box-sizing: border-box;">concurso estudantil</b> e <b style="box-sizing: border-box;">workshops</b>.</span></span></p>
+<p class="MsoNormal"> </p>
+<p style="margin: 0cm 0cm 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><span style="font-size: 14.0pt; font-family: 'Open Sans',sans-serif; color: black; mso-color-alt: windowtext;">Saiba mais sobre o evento no site:</span></p>
+<p style="margin: 0cm 0cm 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"> </p>
+<p class="MsoNormal"><a href="http://www.fia2020.com.br/">https://www.even3.com.br/sobracnatal2023/</a></p>
+<p class="MsoNormal"> </p>
+<p class="MsoNormal"> </p>
+</div>
+<p style="font-size: 12.1599998474121px; line-height: 15.8079996109009px;"> </p>
+<div style="font-size: 12.1599998474121px; line-height: 15.8079996109009px;"> </div> 	</div>
+
+	
+							</div>
+
+           
+         
+    <div class="row">
+         
+          <div class="span45">
+            <hr class="divider-extra">
+             
+                
+          </div>
+          
+          
+          <div class="span45">
+            <hr class="divider-extra">
+                
+          </div> 
+            
+            
+        </div> <!--Fim do row -->
+
+        
+           
+        </div>
+          
+        <div class="span3"> 
+			<img class="page-header" src="/templates/NIT_v3/images/ultimas.png" />
+		</div>		
+        <div class="span3">   
+            
+              <ul class="latestnews mod-list">
+	<li itemscope itemtype="https://schema.org/Article">
+		<a href="/33-noc4/4-sobrac2023" itemprop="url">
+			<span itemprop="name">
+				XXX Encontro da Sociedade Brasileira de Acústica | Sobrac 2023			</span>
+		</a>
+	</li>
+	<li itemscope itemtype="https://schema.org/Article">
+		<a href="/41-more2/24-sobrac" itemprop="url">
+			<span itemprop="name">
+				SOCIEDADE BRASILEIRA DE ACÚSTICA			</span>
+		</a>
+	</li>
+	<li itemscope itemtype="https://schema.org/Article">
+		<a href="/news1" itemprop="url">
+			<span itemprop="name">
+				QUER FAZER O MESTRADO?			</span>
+		</a>
+	</li>
+	<li itemscope itemtype="https://schema.org/Article">
+		<a href="/34-more/29-mais" itemprop="url">
+			<span itemprop="name">
+				EVENTOS DE ACÚSTICA E VIBRAÇÕES			</span>
+		</a>
+	</li>
+</ul>
+
+            
+        </div>
+		
+		<div class="span3">   
+            
+            
+            
+        </div>
+         <div class="links span3">
+			
+    
+		</div>
+
+         
+            <div class="span3">
+                <div id="sidebar" class="tabbable">
+                    <div class="well">
+                     
+                    </div><!-- .well -->
+                </div>
+            </div>
+ 
+            <div class="links span3">
+              
+             <img class="page-header" src="/templates/NIT_v3/images/links.png" />
+           
+          <a href="http://www.fga.unb.br/">  <img src="/templates/NIT_v3/images/aiUCi.png"/></a>
+          <a href="http://www.unb.br/">  <img src="/templates/NIT_v3/images/aiBFGA.png"/></a>
+	  <a href="http://www.pgintegridade.unb.br"> <img src="/templates/NIT_v3/images/acesso importante.png"/></a>
+	  <a href="http://www.gmssa.unb.br/">  <img src="/templates/NIT_v3/images/Imagem1.jpg"/></a>
+            </div>
+           
+    </div>
+        
+        
+        
+    </div>
+    <hr class="divider-extra">
+    
+</div>
+
+<!--container ends-->
+
+<footer id="footer" class="green-bg">
+    <div class="container top30">
+        <div class="row bottom30">
+            
+        <div id="logo" class="span9">
+                  
+          <p><a href="/index.html"> <img src="/templates/NIT_v3/images/unb.png"/> </a></p>
+                    </br>
+                    <p><a href="/index.html"> <img src="/templates/NIT_v3/images/logo-unb-gama2.png"/> </a></p>
+                    
+        </div>
+                
+                
+                
+        <div id="contatos" class="span3">
+                
+                      <address>
+    
+    <abbr title="Phone">P:</abbr> (61) 1456-7890
+    <h6><i class="icon-envelope"></i>maanunes@unb.br</h6>
+    </address>
+     
+    
+        </div>
+      
+   
+        </div>
+       
+      
+    </div>
+    
+     
+    <!-- /container -->
+</footer>
+
+      
+      <div id="copyright">
+      
+                        <div class="container cfooter">
+                        
+                               <p class="pull-left">&copy; LabNVH - Laboratório de Acústica e Vibrações</p>
+                               <p class="pull-right">J2M Tecnologia</p>
+                        </div>
+                </div>
+  
+  <!-- FIM DO SEU CODIGO-->
+  
+  <!-- Le javascript
+================================================== -->
+<!-- Placed at the end of the document so the pages load faster -->
+
+<script src="/templates/NIT_v3/js/jquery.js"></script>
+<script src="/templates/NIT_v3/js/bootstrap.min.js"></script>
+<script type="/templates/NIT_v3/text/javascript" src="/js/hoverIntent.js"></script>
+<script src="/templates/NIT_v3/js/jquery.prettyPhoto.js" type="text/javascript" ></script>
+<script type="/templates/NIT_v3/text/javascript" src="/js/tweets.js"></script>
+<script type="/templates/NIT_v3/text/javascript" src="/js/superfish.js"></script>
+<script type="/templates/NIT_v3/text/javascript" src="/js/main.js"></script>
+<script type="/templates/NIT_v3/text/javascript" src="/js/jquery.flexslider-min.js"></script>
+<!--Superfish menu init-->
+<script type="text/javascript">
+
+    // initialise plugins
+    jQuery(function () {
+        jQuery('ul.sf-menu').superfish();
+    });
+
+</script>
+ <!--PrettyPhoto Init-->
+<script type="text/javascript" charset="utf-8">
+    $(document).ready(function(){
+        $("a[rel^='prettyPhoto']").prettyPhoto();
+    });
+</script>
+<!--Flex slider init-->
+<script defer src="/templates/NIT_v3/js/jquery.flexslider-min.js"></script>
+
+<script type="text/javascript">
+    $(function(){
+        SyntaxHighlighter.all();
+    });
+    $(window).load(function(){
+        $('.flexslider').flexslider({
+            animation: "slide",
+            start: function(slider){
+                $('body').removeClass('loading');
+            }
+        });
+    });
+</script>
+ <!--Twitter init-->
+<script type="text/javascript">
+    $('#jTweetsAnywhereSample').jTweetsAnywhere({
+        username: 'twitter',
+        count: 3
+    });
+</script>
+  
+  
+  
+</body>
+
+</html>
+

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="pt-br">
+	<title type="text">O Lab NVH</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="http://www.labnvh.unb.br"/>
+	<id>http://www.labnvh.unb.br/</id>
+	<updated>2024-11-13T18:33:31+00:00</updated>
+	<author>
+		<name>nit</name>
+		<email>helton.alves.azevedo@hotmail.com</email>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://www.labnvh.unb.br/?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Sobre</title>
+		<link rel="alternate" type="text/html" href="http://www.labnvh.unb.br/19-o-que-e-nit"/>
+		<published>2015-05-08T14:19:50+00:00</published>
+		<updated>2015-05-08T14:19:50+00:00</updated>
+		<id>http://www.labnvh.unb.br/19-o-que-e-nit</id>
+		<author>
+			<name>Super User</name>
+			<email>sites@unb.br</email>
+		</author>
+		<summary type="html">&lt;p class=&quot;MsoNormal&quot; style=&quot;mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: justify; mso-line-height-alt: 11.85pt;&quot;&gt;&lt;span style=&quot;font-size: 12.0pt; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; color: black; mso-ansi-language: EN-US;&quot;&gt;O LabNVH - Laboratório de Acústica e Vibrações está localizado na Universidade de Brasília (UnB), Campus Gama (FGA).  O laboratório foi criado com o objetivo de atender as disciplinas de graduação e pós-graduação que com ele se relacione, bem como abrigar e dar suporte às pesquisas desenvolvidas na área, desde a iniciação científica até o mestrado e doutorado acadêmico.&lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;MsoNormal&quot; style=&quot;mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: justify; mso-line-height-alt: 11.85pt;&quot;&gt;&lt;span style=&quot;font-size: 12.0pt; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; color: black; mso-ansi-language: EN-US;&quot;&gt;Além da área acadêmica, o laboratório também atua conjuntamente à indústria desenvolvendo projetos de cooperação bem como a realização de laudos de ruído ambiental, ruído e vibrações ocupacionais.&lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;MsoNormal&quot; style=&quot;mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: justify; mso-line-height-alt: 11.85pt;&quot;&gt;&lt;span style=&quot;font-size: 12.0pt; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; color: black; mso-ansi-language: EN-US;&quot;&gt;Inicialmente, o LabNVH foi criado para atuar com foco na Engenharia Automotiva tendo em vista a disciplina de Acústica e Vibrações Veiculares presente na matriz curricular deste curso. No entanto, por ser a acústica uma área multidisciplinar, atualmente o laboratório conta com estudantes e pesquisadores dos demais cursos da FGA (Eng. de Energia, Eng. Eletrônica, Eng. Aeroespacial) e ainda dos demais campis da UnB.&lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;MsoNormal&quot; style=&quot;mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: justify; mso-line-height-alt: 11.85pt;&quot;&gt;&lt;span style=&quot;font-size: 12.0pt; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; color: black; mso-ansi-language: EN-US;&quot;&gt;O LabNVH possui bancadas experimentais, analisadores digitais e sistemas de aquisição de dados, transdutores para ensaios em acústica e vibrações,&lt;/span&gt;&lt;span style=&quot;font-size: 12pt; font-family: Arial, sans-serif;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size: 12.0pt; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; color: black; mso-ansi-language: EN-US;&quot;&gt;equipamentos para ensaios em acústica e vibrações (medidores de NPS, calibradores de NPS e de vibração, alto-falantes, excitadores eletrodinâmicos, amplificadores de potencia) e diversos softwares de simulação numérica.&lt;/span&gt;&lt;span style=&quot;font-size: 12pt; font-family: Tahoma, sans-serif;&quot;&gt; &lt;/span&gt; &lt;/p&gt;
+&lt;p class=&quot;MsoNormal&quot; style=&quot;mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;&quot;&gt;&lt;span style=&quot;font-size: 12.0pt; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; color: black; mso-ansi-language: EN-US;&quot;&gt;Atualmente a Prof.ª Dr.ª Maria Alzira de Araújo Nunes, docente do curso de Engenharia Automotiva, é a responsável pelo laboratório, a qual possui formação acadêmica e experiência profissional na área.&lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;MsoNormal&quot; style=&quot;mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;&quot;&gt; &lt;/p&gt;
+&lt;table style=&quot;height: 80px;&quot; width=&quot;1046&quot;&gt;
+&lt;tbody&gt;
+&lt;tr style=&quot;height: 32px;&quot;&gt;
+&lt;td style=&quot;width: 515.6px; height: 32px;&quot;&gt;&lt;img class=&quot;pull-center&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; src=&quot;http://www.labnvh.unb.br/images/IMG_0702.jpg&quot; alt=&quot;&quot; width=&quot;313&quot; height=&quot;418&quot; /&gt;&lt;/td&gt;
+&lt;td style=&quot;width: 515.6px; height: 32px;&quot;&gt;&lt;img style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; src=&quot;http://www.labnvh.unb.br/images/IMG_0703.jpg&quot; alt=&quot;&quot; width=&quot;318&quot; height=&quot;425&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;height: 14.85px;&quot;&gt;
+&lt;td style=&quot;width: 515.6px; height: 14.85px;&quot;&gt; &lt;/td&gt;
+&lt;td style=&quot;width: 515.6px; height: 14.85px;&quot;&gt; &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;height: 28px;&quot;&gt;
+&lt;td style=&quot;width: 515.6px; height: 28px;&quot;&gt; &lt;img style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; src=&quot;http://www.labnvh.unb.br/images/IMG_0704.jpg&quot; alt=&quot;&quot; width=&quot;477&quot; height=&quot;357&quot; /&gt;&lt;/td&gt;
+&lt;td style=&quot;width: 515.6px; height: 28px;&quot;&gt; &lt;img style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; src=&quot;http://www.labnvh.unb.br/images/IMG_0707.jpg&quot; alt=&quot;&quot; width=&quot;467&quot; height=&quot;350&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p class=&quot;MsoNormal&quot; style=&quot;mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;&quot;&gt; &lt;/p&gt;
+&lt;p class=&quot;MsoNormal&quot; style=&quot;mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;&quot;&gt;&lt;span style=&quot;font-size: 12.0pt; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; color: black; mso-ansi-language: EN-US;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;MsoNormal&quot; style=&quot;mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;&quot;&gt;&lt;span style=&quot;font-size: 12.0pt; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; color: black; mso-ansi-language: EN-US;&quot;&gt;&lt;strong&gt; &lt;a href=&quot;https://drive.google.com/file/d/1iTVALLW3MD_m6JfB8bVOv2eozMWhbqR4/view?usp=sharing&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;CLIQUE AQUI&lt;/a&gt; para conhecer o Campus UnB/FGA em vista aérea&lt;/strong&gt; (vídeo pelo servidor Valdemir Gomes em 07/06/2022)&lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;MsoNormal&quot; style=&quot;mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;&quot;&gt; &lt;/p&gt;
+&lt;p class=&quot;MsoNormal&quot; style=&quot;mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;&quot;&gt;&lt;span style=&quot;font-size: 12.0pt; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; color: black; mso-ansi-language: EN-US;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;MsoNormal&quot; style=&quot;mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;&quot;&gt; &lt;/p&gt;
+&lt;p class=&quot;MsoNormal&quot; style=&quot;mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;&quot;&gt;&lt;span style=&quot;font-size: 12.0pt; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; color: black; mso-ansi-language: EN-US;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;MsoNormal&quot; style=&quot;mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;&quot;&gt; &lt;/p&gt;
+&lt;p class=&quot;MsoNormal&quot; style=&quot;mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;&quot;&gt;&lt;span style=&quot;font-size: 12.0pt; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; color: black; mso-ansi-language: EN-US;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;MsoNormal&quot; style=&quot;mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;&quot;&gt; &lt;/p&gt;</summary>
+		<content type="html">&lt;p class=&quot;MsoNormal&quot; style=&quot;mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: justify; mso-line-height-alt: 11.85pt;&quot;&gt;&lt;span style=&quot;font-size: 12.0pt; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; color: black; mso-ansi-language: EN-US;&quot;&gt;O LabNVH - Laboratório de Acústica e Vibrações está localizado na Universidade de Brasília (UnB), Campus Gama (FGA).  O laboratório foi criado com o objetivo de atender as disciplinas de graduação e pós-graduação que com ele se relacione, bem como abrigar e dar suporte às pesquisas desenvolvidas na área, desde a iniciação científica até o mestrado e doutorado acadêmico.&lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;MsoNormal&quot; style=&quot;mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: justify; mso-line-height-alt: 11.85pt;&quot;&gt;&lt;span style=&quot;font-size: 12.0pt; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; color: black; mso-ansi-language: EN-US;&quot;&gt;Além da área acadêmica, o laboratório também atua conjuntamente à indústria desenvolvendo projetos de cooperação bem como a realização de laudos de ruído ambiental, ruído e vibrações ocupacionais.&lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;MsoNormal&quot; style=&quot;mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: justify; mso-line-height-alt: 11.85pt;&quot;&gt;&lt;span style=&quot;font-size: 12.0pt; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; color: black; mso-ansi-language: EN-US;&quot;&gt;Inicialmente, o LabNVH foi criado para atuar com foco na Engenharia Automotiva tendo em vista a disciplina de Acústica e Vibrações Veiculares presente na matriz curricular deste curso. No entanto, por ser a acústica uma área multidisciplinar, atualmente o laboratório conta com estudantes e pesquisadores dos demais cursos da FGA (Eng. de Energia, Eng. Eletrônica, Eng. Aeroespacial) e ainda dos demais campis da UnB.&lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;MsoNormal&quot; style=&quot;mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: justify; mso-line-height-alt: 11.85pt;&quot;&gt;&lt;span style=&quot;font-size: 12.0pt; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; color: black; mso-ansi-language: EN-US;&quot;&gt;O LabNVH possui bancadas experimentais, analisadores digitais e sistemas de aquisição de dados, transdutores para ensaios em acústica e vibrações,&lt;/span&gt;&lt;span style=&quot;font-size: 12pt; font-family: Arial, sans-serif;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size: 12.0pt; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; color: black; mso-ansi-language: EN-US;&quot;&gt;equipamentos para ensaios em acústica e vibrações (medidores de NPS, calibradores de NPS e de vibração, alto-falantes, excitadores eletrodinâmicos, amplificadores de potencia) e diversos softwares de simulação numérica.&lt;/span&gt;&lt;span style=&quot;font-size: 12pt; font-family: Tahoma, sans-serif;&quot;&gt; &lt;/span&gt; &lt;/p&gt;
+&lt;p class=&quot;MsoNormal&quot; style=&quot;mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;&quot;&gt;&lt;span style=&quot;font-size: 12.0pt; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; color: black; mso-ansi-language: EN-US;&quot;&gt;Atualmente a Prof.ª Dr.ª Maria Alzira de Araújo Nunes, docente do curso de Engenharia Automotiva, é a responsável pelo laboratório, a qual possui formação acadêmica e experiência profissional na área.&lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;MsoNormal&quot; style=&quot;mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;&quot;&gt; &lt;/p&gt;
+&lt;table style=&quot;height: 80px;&quot; width=&quot;1046&quot;&gt;
+&lt;tbody&gt;
+&lt;tr style=&quot;height: 32px;&quot;&gt;
+&lt;td style=&quot;width: 515.6px; height: 32px;&quot;&gt;&lt;img class=&quot;pull-center&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; src=&quot;http://www.labnvh.unb.br/images/IMG_0702.jpg&quot; alt=&quot;&quot; width=&quot;313&quot; height=&quot;418&quot; /&gt;&lt;/td&gt;
+&lt;td style=&quot;width: 515.6px; height: 32px;&quot;&gt;&lt;img style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; src=&quot;http://www.labnvh.unb.br/images/IMG_0703.jpg&quot; alt=&quot;&quot; width=&quot;318&quot; height=&quot;425&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;height: 14.85px;&quot;&gt;
+&lt;td style=&quot;width: 515.6px; height: 14.85px;&quot;&gt; &lt;/td&gt;
+&lt;td style=&quot;width: 515.6px; height: 14.85px;&quot;&gt; &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&quot;height: 28px;&quot;&gt;
+&lt;td style=&quot;width: 515.6px; height: 28px;&quot;&gt; &lt;img style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; src=&quot;http://www.labnvh.unb.br/images/IMG_0704.jpg&quot; alt=&quot;&quot; width=&quot;477&quot; height=&quot;357&quot; /&gt;&lt;/td&gt;
+&lt;td style=&quot;width: 515.6px; height: 28px;&quot;&gt; &lt;img style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; src=&quot;http://www.labnvh.unb.br/images/IMG_0707.jpg&quot; alt=&quot;&quot; width=&quot;467&quot; height=&quot;350&quot; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p class=&quot;MsoNormal&quot; style=&quot;mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;&quot;&gt; &lt;/p&gt;
+&lt;p class=&quot;MsoNormal&quot; style=&quot;mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;&quot;&gt;&lt;span style=&quot;font-size: 12.0pt; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; color: black; mso-ansi-language: EN-US;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;MsoNormal&quot; style=&quot;mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;&quot;&gt;&lt;span style=&quot;font-size: 12.0pt; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; color: black; mso-ansi-language: EN-US;&quot;&gt;&lt;strong&gt; &lt;a href=&quot;https://drive.google.com/file/d/1iTVALLW3MD_m6JfB8bVOv2eozMWhbqR4/view?usp=sharing&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;CLIQUE AQUI&lt;/a&gt; para conhecer o Campus UnB/FGA em vista aérea&lt;/strong&gt; (vídeo pelo servidor Valdemir Gomes em 07/06/2022)&lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;MsoNormal&quot; style=&quot;mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;&quot;&gt; &lt;/p&gt;
+&lt;p class=&quot;MsoNormal&quot; style=&quot;mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;&quot;&gt;&lt;span style=&quot;font-size: 12.0pt; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; color: black; mso-ansi-language: EN-US;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;MsoNormal&quot; style=&quot;mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;&quot;&gt; &lt;/p&gt;
+&lt;p class=&quot;MsoNormal&quot; style=&quot;mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;&quot;&gt;&lt;span style=&quot;font-size: 12.0pt; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; color: black; mso-ansi-language: EN-US;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;MsoNormal&quot; style=&quot;mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;&quot;&gt; &lt;/p&gt;
+&lt;p class=&quot;MsoNormal&quot; style=&quot;mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;&quot;&gt;&lt;span style=&quot;font-size: 12.0pt; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; color: black; mso-ansi-language: EN-US;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;MsoNormal&quot; style=&quot;mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;&quot;&gt; &lt;/p&gt;</content>
+		<category term="Home" />
+	</entry>
+</feed>

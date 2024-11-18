@@ -1,0 +1,153 @@
+/*
+Author: Jônatas Medeiros de Mendonça 
+E-mail: jonatasmm@gmail.com
+Site: www.jonatas.me
+Data: Setembro/2013
+*/
+
+@charset "utf-8";
+/* CSS Document */
+
+/* Menu */
+
+#menu_unb {
+	background: url(../images/bg_menu_unb.png) repeat-x;
+}
+
+#menu_unb ul {
+	text-align: left;
+	padding: 6px 0;
+}
+
+#menu_unb li{
+	display: inline;
+	color: #fff;
+	font-size: 12px;
+	margin-right: 35px;
+}
+
+#direito{
+width: 200 px;
+float: right;
+background-color:#565656;
+min-height: 350 px;
+}
+.search {
+	
+	padding-bottom: 10px;
+	
+}
+
+/* Contato */
+
+#contatos {
+	
+}
+
+.topo {
+	background: #f2fbea;
+}
+
+#noticias a{
+	color: #fff;
+}
+
+
+i {
+	padding-right: 5px;
+}
+
+/* Links */
+
+
+.links i{
+	padding-left: 10px;
+	
+	
+}
+
+.links img {
+	padding-left: 10px;
+	padding-bottom: 10px;
+}
+
+#copyright {
+	background: #008b3c;
+	color: #ccc;
+	
+}
+
+.cfooter {
+	border-top:solid 1px #01b54f;
+}
+
+#copyright p {
+	padding-top:5px;	
+}
+
+/* Menu */
+
+
+
+		.tab-content {
+/*
+			display: table;
+			max-width: 90%;
+*/
+		}
+		.tab-content > .active,
+		.pill-content > .active {
+ 	    display: inline-block; 
+		}
+		.nav-pills ul li a h3 {
+			font-size: 38px;
+			line-height: 18px;
+			
+			
+		}
+		.nav-pills ul li.active a h3 {
+			font-size: 40px;
+			color: white;
+			float: left;
+		}
+		#nav1 ul li ul{
+		display:none;
+
+		}
+		#nav1 ul li:hover ul{
+		display:inline-block;
+		position: relative;
+		}
+	}
+		}
+		#sidebar .well {
+			padding: 4px 4px 0 4px;
+		}
+		#sidenav > li a {
+			/* Transition for hovers */
+					-webkit-transition: all 0.2s ease;
+					-moz-transition: all 0.2s ease;
+					-o-transition: all 0.2s ease;
+					transition: all 0.2s ease;
+		}
+		#sidenav > ul li.active a,
+		#sidenav > ul li a:hover {
+			margin-left: -10px;
+			padding-left: 20px;
+		}
+#sidenav
+
+
+/* Footer */
+#ultimasnoticias{
+top:80px;}
+.widget-inner {
+  margin-bottom: 30px;
+.widget-inner:last-child {
+  margin-bottom: 0;
+  
+  }
+  
+.lates-blog-post li {
+  margin-bottom: 10px;
+}
