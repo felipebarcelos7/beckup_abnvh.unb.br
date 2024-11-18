@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Livros</title>
+		<description><![CDATA[]]></description>
+		<link>http://labnvh.unb.br/grupos/livros</link>
+		<lastBuildDate>Mon, 18 Nov 2024 20:38:26 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://labnvh.unb.br/grupos/livros?format=feed&amp;type=rss"/>
+		<language>pt-br</language>
+		<managingEditor>helton.alves.azevedo@hotmail.com (nit)</managingEditor>
+		<item>
+			<title>Livros</title>
+			<link>http://labnvh.unb.br/grupos/livros/26-livros</link>
+			<guid isPermaLink="true">http://labnvh.unb.br/grupos/livros/26-livros</guid>
+			<description><![CDATA[<h2 style="text-align: justify; mso-line-height-alt: 11.25pt; vertical-align: baseline;"><span lang="PT-BR" style="font-size: 14pt; font-family: Arial, sans-serif; color: windowtext; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">Livros Publicados</span></h2>
+<h2 style="text-align: justify; mso-line-height-alt: 11.25pt; vertical-align: baseline;"> </h2>
+<h2 style="text-align: justify; mso-line-height-alt: 11.25pt; vertical-align: baseline;"><span lang="PT-BR" style="font-size: 12pt; font-family: Arial, sans-serif; color: windowtext;"><img src="http://labnvh.unb.br/images/CAPA.png" alt="" /> </span></h2>
+<h2 style="text-align: justify; mso-line-height-alt: 11.25pt; vertical-align: baseline;"><span lang="PT-BR" style="font-size: 12pt; font-family: Arial, sans-serif; color: windowtext;">MSC ADAMS: Guia prático de Utilização. 1ª. Ed. São Paulo: Blucher, 2014. 500p.</span></h2>
+<h4 style="text-align: start;"><span style="font-family: 'Arial','sans-serif';">Autoras: Rita de Cássia Silva e Maria Alzira de Araújo Nunes</span></h4>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; margin-bottom: .0001pt; text-align: justify; line-height: 11.25pt; vertical-align: baseline;"> </p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; margin-bottom: .0001pt; text-align: justify; line-height: 11.25pt; vertical-align: baseline;"><span lang="PT-BR" style="font-size: 12.0pt; font-family: 'Arial','sans-serif';">Baixe o Ebook agora mesmo: </span><strong> <a style="font-family: Arial, sans-serif; font-size: 10pt;" href="https://drive.google.com/file/d/0B0CKpK-gZygWS2hOMDFfUGVfd1E/view?usp=sharing">DOWNLOAD</a></strong></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; margin-bottom: .0001pt; text-align: justify; line-height: 11.25pt; vertical-align: baseline;"><span style="font-size: 10pt; font-family: Arial, sans-serif;"> </span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; margin-bottom: .0001pt; text-align: justify; mso-line-height-alt: 11.85pt;"> </p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; margin-bottom: .0001pt; text-align: justify; line-height: 11.25pt; vertical-align: baseline;"> </p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; margin-bottom: .0001pt; text-align: justify; line-height: 11.25pt; vertical-align: baseline;"> </p>]]></description>
+			<author>sites@unb.br (Super User)</author>
+			<category>Livros</category>
+			<pubDate>Fri, 14 Aug 2015 15:04:04 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

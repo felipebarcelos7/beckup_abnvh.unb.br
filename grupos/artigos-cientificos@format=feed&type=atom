@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="pt-br">
+	<title type="text">Artigos Científicos</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="http://labnvh.unb.br"/>
+	<id>http://labnvh.unb.br/grupos/artigos-cientificos</id>
+	<updated>2024-11-18T20:38:51+00:00</updated>
+	<author>
+		<name>nit</name>
+		<email>helton.alves.azevedo@hotmail.com</email>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://labnvh.unb.br/grupos/artigos-cientificos?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Trabalhos Públicados em Periódicos e Congressos</title>
+		<link rel="alternate" type="text/html" href="http://labnvh.unb.br/grupos/artigos-cientificos/27-congressos"/>
+		<published>2015-08-14T15:05:48+00:00</published>
+		<updated>2015-08-14T15:05:48+00:00</updated>
+		<id>http://labnvh.unb.br/grupos/artigos-cientificos/27-congressos</id>
+		<author>
+			<name>Super User</name>
+			<email>sites@unb.br</email>
+		</author>
+		<summary type="html">&lt;h4 style=&quot;margin: 7.5pt 0in; line-height: 15pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-size: 14pt; font-family: Arial, sans-serif;&quot;&gt;Acesse o Currículo Lattes dos professores do LabNVH para conhecer os trabalhos publicados em &lt;/span&gt;&lt;/strong&gt;&lt;strong&gt;&lt;span style=&quot;font-size: 14.0pt; font-family: 'Arial','sans-serif';&quot;&gt;Periódicos e Congressos.&lt;/span&gt;&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h4 style=&quot;margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;&quot;&gt;&lt;span style=&quot;font-family: 'Arial','sans-serif'; mso-bidi-font-weight: bold;&quot;&gt;&lt;a href=&quot;http://lattes.cnpq.br/6122858958268866&quot;&gt;&lt;span style=&quot;color: windowtext;&quot;&gt;Prof.ª Maria Alzira Araújo Nunes, Drª&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/h4&gt;
+&lt;h4 style=&quot;margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;&quot;&gt;&lt;span style=&quot;font-family: 'Arial','sans-serif'; mso-bidi-font-weight: bold;&quot;&gt;&lt;a href=&quot;http://lattes.cnpq.br/9948010689216399&quot;&gt;&lt;span style=&quot;color: windowtext;&quot;&gt;Prof.º Henrique Gomes de Moura, Drº&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/h4&gt;
+&lt;h4 style=&quot;margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;&quot;&gt;&lt;span style=&quot;font-family: 'Arial','sans-serif'; mso-bidi-font-weight: bold;&quot;&gt;&lt;a href=&quot;http://lattes.cnpq.br/1869395326133832&quot;&gt;&lt;span style=&quot;color: windowtext;&quot;&gt;Prof.º Alessandro Borges de Sousa Oliveira,&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;color: windowtext;&quot;&gt;&lt;a href=&quot;http://lattes.cnpq.br/1869395326133832&quot;&gt; &lt;/a&gt;Dr&lt;/span&gt;&lt;/span&gt;&lt;a style=&quot;font-family: Arial, sans-serif; font-size: 12.16px;&quot; href=&quot;http://lattes.cnpq.br/9948010689216399&quot;&gt;&lt;span style=&quot;color: windowtext;&quot;&gt;º&lt;/span&gt;&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 style=&quot;margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;&quot;&gt;&lt;a href=&quot;http://lattes.cnpq.br/0092585955012861&quot;&gt;&lt;span style=&quot;color: windowtext;&quot;&gt;Prof.º Renato Vilela Lopes, Drº&lt;/span&gt;&lt;/a&gt;&lt;/h4&gt;</summary>
+		<content type="html">&lt;h4 style=&quot;margin: 7.5pt 0in; line-height: 15pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-size: 14pt; font-family: Arial, sans-serif;&quot;&gt;Acesse o Currículo Lattes dos professores do LabNVH para conhecer os trabalhos publicados em &lt;/span&gt;&lt;/strong&gt;&lt;strong&gt;&lt;span style=&quot;font-size: 14.0pt; font-family: 'Arial','sans-serif';&quot;&gt;Periódicos e Congressos.&lt;/span&gt;&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h4 style=&quot;margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;&quot;&gt;&lt;span style=&quot;font-family: 'Arial','sans-serif'; mso-bidi-font-weight: bold;&quot;&gt;&lt;a href=&quot;http://lattes.cnpq.br/6122858958268866&quot;&gt;&lt;span style=&quot;color: windowtext;&quot;&gt;Prof.ª Maria Alzira Araújo Nunes, Drª&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/h4&gt;
+&lt;h4 style=&quot;margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;&quot;&gt;&lt;span style=&quot;font-family: 'Arial','sans-serif'; mso-bidi-font-weight: bold;&quot;&gt;&lt;a href=&quot;http://lattes.cnpq.br/9948010689216399&quot;&gt;&lt;span style=&quot;color: windowtext;&quot;&gt;Prof.º Henrique Gomes de Moura, Drº&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/h4&gt;
+&lt;h4 style=&quot;margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;&quot;&gt;&lt;span style=&quot;font-family: 'Arial','sans-serif'; mso-bidi-font-weight: bold;&quot;&gt;&lt;a href=&quot;http://lattes.cnpq.br/1869395326133832&quot;&gt;&lt;span style=&quot;color: windowtext;&quot;&gt;Prof.º Alessandro Borges de Sousa Oliveira,&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;color: windowtext;&quot;&gt;&lt;a href=&quot;http://lattes.cnpq.br/1869395326133832&quot;&gt; &lt;/a&gt;Dr&lt;/span&gt;&lt;/span&gt;&lt;a style=&quot;font-family: Arial, sans-serif; font-size: 12.16px;&quot; href=&quot;http://lattes.cnpq.br/9948010689216399&quot;&gt;&lt;span style=&quot;color: windowtext;&quot;&gt;º&lt;/span&gt;&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 style=&quot;margin: 0in 0in 7.5pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;&quot;&gt;&lt;a href=&quot;http://lattes.cnpq.br/0092585955012861&quot;&gt;&lt;span style=&quot;color: windowtext;&quot;&gt;Prof.º Renato Vilela Lopes, Drº&lt;/span&gt;&lt;/a&gt;&lt;/h4&gt;</content>
+		<category term="Congressos" />
+	</entry>
+</feed>

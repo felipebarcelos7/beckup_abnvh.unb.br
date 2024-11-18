@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Graduação</title>
+		<description><![CDATA[]]></description>
+		<link>http://labnvh.unb.br/ensino/graduacao</link>
+		<lastBuildDate>Mon, 18 Nov 2024 20:29:56 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://labnvh.unb.br/ensino/graduacao?format=feed&amp;type=rss"/>
+		<language>pt-br</language>
+		<managingEditor>helton.alves.azevedo@hotmail.com (nit)</managingEditor>
+		<item>
+			<title>Disciplinas de Graduação</title>
+			<link>http://labnvh.unb.br/ensino/graduacao/21-disciplinas-de-graduacao</link>
+			<guid isPermaLink="true">http://labnvh.unb.br/ensino/graduacao/21-disciplinas-de-graduacao</guid>
+			<description><![CDATA[<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: justify; line-height: 150%;"><b><span style="font-size: 12pt; line-height: 150%; font-family: Arial, sans-serif;">Engenharia de Segurança do Trabalho</span></b></p>
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: justify; line-height: 150%;"><span style="font-size: 12pt; line-height: 150%; font-family: Arial, sans-serif;">Prof.ª Dr.ª Maria Alzira de Araújo Nunes</span></p>
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: justify; line-height: 150%;"><span style="font-size: 12pt; line-height: 150%; font-family: Arial, sans-serif;">Créditos: 2</span></p>
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: justify; line-height: 150%;"><span style="font-size: 12pt; line-height: 150%; font-family: Arial, sans-serif;">Turmas: A (2ª feira – 08:00 às 09:50hrs) e B (2ª feira – 16:00 às 17:50hrs)</span></p>
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: justify; line-height: 150%;"><b><span style="font-size: 12pt; line-height: 150%; font-family: Arial, sans-serif;">Engenharias:</span></b><span style="font-size: 12pt; line-height: 150%; font-family: Arial, sans-serif;"> Automotiva, de Energia, Eletrônica, Aeroespacial, de Software.</span></p>
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: justify; line-height: 150%;"><b><span style="font-size: 12pt; line-height: 150%; font-family: Arial, sans-serif;">Ementa:</span></b></p>
+<ul style="margin-top: 0cm;" type="disc">
+<li class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: 150%;"><span style="font-size: 12.0pt; line-height: 150%; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: PT-BR;">Introdução e Histórico da segurança e saúde do trabalho</span></li>
+<li class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: 150%;"><span style="font-size: 12.0pt; line-height: 150%; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: PT-BR;">Conceitos e definições básicas;</span></li>
+<li class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: 150%;"><span style="font-size: 12.0pt; line-height: 150%; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: PT-BR;">Estatísticas e análise de acidentes;</span></li>
+<li class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: 150%;"><span style="font-size: 12.0pt; line-height: 150%; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: PT-BR;">Legislação e normas;</span></li>
+<li class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: 150%;"><span style="font-size: 12.0pt; line-height: 150%; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: PT-BR;">Implantação da segurança e saúde no trabalho;</span></li>
+<li class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: 150%;"><span style="font-size: 12.0pt; line-height: 150%; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: PT-BR;">Doenças do trabalho: noções de epidemiologia e toxicologia;</span></li>
+<li class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: 150%;"><span style="font-size: 12.0pt; line-height: 150%; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: PT-BR;">Comissão Interna de Prevenção de Acidentes (CIPA)</span></li>
+<li class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: 150%;"><span style="font-size: 12.0pt; line-height: 150%; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: PT-BR;">Serviços Especializados em Eng. de Segurança e Medicina do Trabalho (SESMT);</span></li>
+<li class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: 150%;"><span style="font-size: 12.0pt; line-height: 150%; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: PT-BR;">Equipamentos de Proteção Individual e Coletiva– EPIs e EPCs</span></li>
+<li class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: 150%;"><span style="font-size: 12.0pt; line-height: 150%; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: PT-BR;">Programa de Prevenção de Riscos Ambientais (PPRA);</span></li>
+<li class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: 150%;"><span style="font-size: 12.0pt; line-height: 150%; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: PT-BR;">Programa de Controle Médico de Saúde Ocupacional (PCMSO);</span></li>
+<li class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: 150%;"><span style="font-size: 12.0pt; line-height: 150%; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: PT-BR;">Noções de primeiros socorros e combate a incêndios;</span></li>
+<li class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: 150%;"><span style="font-size: 12.0pt; line-height: 150%; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: PT-BR;">Introdução a higiene do trabalho;</span></li>
+<li class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: 150%;"><span style="font-size: 12.0pt; line-height: 150%; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: PT-BR;">Insalubridade e Periculosidade;</span></li>
+<li class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: 150%;"><span style="font-size: 12.0pt; line-height: 150%; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: PT-BR;">Avaliação e Controle de Riscos Profissionais;</span></li>
+</ul>
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: justify; line-height: 150%;"><b><span style="font-size: 12pt; line-height: 150%; font-family: Arial, sans-serif;">_______________________________________________________________ </span></b></p>
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: justify; line-height: 150%;"><span style="font-size: 12pt; line-height: 150%; font-family: Arial, sans-serif;"> </span></p>
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: justify; line-height: 150%;"><b><span style="font-size: 12pt; line-height: 150%; font-family: Arial, sans-serif;">Acústica e Vibrações Veiculares</span></b></p>
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: justify; line-height: 150%;"><span style="font-family: Arial, sans-serif; font-size: 16px;">Prof.ª Dr.ª Maria Alzira de Araújo Nunes</span></p>
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: justify; line-height: 150%;"><span style="font-size: 12pt; line-height: 150%; font-family: Arial, sans-serif;">Créditos: 4</span></p>
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: justify; line-height: 150%;"><span style="font-size: 12pt; line-height: 150%; font-family: Arial, sans-serif;">Turma: A (3ª e 5ª-feira – 08:00 às 09:50hrs)</span></p>
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: justify; line-height: 150%;"><b><span style="font-size: 12pt; line-height: 150%; font-family: Arial, sans-serif;">Engenharias:</span></b><span style="font-size: 12pt; line-height: 150%; font-family: Arial, sans-serif;"> Automotiva e Aeroespacial.</span></p>
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: justify; line-height: 150%;"><b><span style="font-size: 12pt; line-height: 150%; font-family: Arial, sans-serif;">Ementa:</span></b><b><span style="font-size: 12pt; line-height: 150%; font-family: Tahoma, sans-serif;"> </span></b></p>
+<ul style="margin-top: 0cm;" type="disc">
+<li class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: 150%;"><span style="font-size: 12.0pt; line-height: 150%; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: PT-BR;">Fundamentos de Vibrações;</span></li>
+<li class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: 150%;"><span style="font-size: 12.0pt; line-height: 150%; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: PT-BR;">Conceitos Fundamentais do Som;</span></li>
+<li class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: 150%;"><span style="font-size: 12.0pt; line-height: 150%; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: PT-BR;">Nível Logarítmico e Espectro Sonoro;</span></li>
+<li class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: 150%;"><span style="font-size: 12.0pt; line-height: 150%; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: PT-BR;">Efeitos do ruído e de vibrações no homem;</span></li>
+<li class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: 150%;"><span style="font-size: 12.0pt; line-height: 150%; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: PT-BR;">Instrumentação para medição e análise de ruído e vibrações;</span></li>
+<li class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: 150%;"><span style="font-size: 12.0pt; line-height: 150%; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: PT-BR;">Propagação sonora de ao ar-livre;</span></li>
+<li class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: 150%;"><span style="font-size: 12.0pt; line-height: 150%; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: PT-BR;">Acústica de cavidade e dutos;</span></li>
+<li class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: 150%;"><span style="font-size: 12.0pt; line-height: 150%; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: PT-BR;">Técnicas de identificação de fontes de ruído externo veicular;</span></li>
+<li class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: 150%;"><span style="font-size: 12.0pt; line-height: 150%; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: PT-BR;">Legislação de ruído veicular externo;</span></li>
+<li class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: 150%;"><span style="font-size: 12.0pt; line-height: 150%; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: PT-BR;">Métodos numéricos em vibroacústica;</span></li>
+<li class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: 150%;"><span style="font-size: 12.0pt; line-height: 150%; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: PT-BR;">Fontes de ruído e vibrações dos principais sistemas automotivos;</span></li>
+<li class="MsoNormal" style="margin-bottom: 0.0001pt; text-align: justify; line-height: 150%;"><span style="font-family: Arial, sans-serif; font-size: 16px;">Controle do ruído e vibrações veiculares (sistemas passivos e ativos)</span>.</li>
+</ul>
+<p> </p>
+<p><span style="font-size: 10.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: PT-BR;">Disponível em: <a href="http://fga.unb.br/maanunes/disciplinas-ministradas">Portal FGA</a></span></p>]]></description>
+			<author>sites@unb.br (Super User)</author>
+			<category>Graduação</category>
+			<pubDate>Fri, 07 Aug 2015 02:45:21 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

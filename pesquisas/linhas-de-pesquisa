@@ -13,11 +13,12 @@ Data: Setembro/2013
 <!--[if gt IE 8]><!-->  <html class="no-js" lang="pt-br"> <!--<![endif]-->
 
 <head>
-  <base href="http://labnvh.unb.br/news1" />
+  <base href="http://labnvh.unb.br/pesquisas/linhas-de-pesquisa" />
 	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-	<meta name="author" content="Super User" />
 	<meta name="x-ua-compatible" content="IE=edge,chrome=1" />
-	<title>News1</title>
+	<title>Linhas de Pesquisa</title>
+	<link href="/pesquisas/linhas-de-pesquisa?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0" />
+	<link href="/pesquisas/linhas-de-pesquisa?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0" />
 	<link href="/templates/NIT_v3/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
 	<link href="/templates/NIT_v3/css/normalize.css" rel="stylesheet" type="text/css" />
 	<link href="/templates/NIT_v3/css/template.css?f=0&amp;b=0&amp;fa=0&amp;v=1" rel="stylesheet" type="text/css" />
@@ -222,7 +223,7 @@ jQuery(document).ready(function($) {
 <div id="sidr-close"><a href="#sidr-close" class="toggle-sidr-close"></a></div>
 <div id="gruemenu" class="grue_89 ">
 <ul >
-<li class="item-101"><a href="/" >O Lab NVH</a></li><li class="item-102 has-sub parent"><a href="/ensino" target="_blank" >Ensino</a><ul class="sub-menu"><li class="item-112"><a href="/ensino/graduacao" >Graduação</a></li><li class="item-113"><a href="/ensino/pos-graduacao" >Pós-Graduação</a></li></ul></li><li class="item-103 has-sub parent"><a href="#" >Pesquisas</a><ul class="sub-menu"><li class="item-123"><a href="/pesquisas/projetos1-de-pesquisa" >Projetos de Pesquisa</a></li><li class="item-125"><a href="/pesquisas/linhas-de-pesquisa" >Linhas de Pesquisa</a></li></ul></li><li class="item-105 has-sub parent"><a href="#" >Publicações</a><ul class="sub-menu"><li class="item-119"><a href="/grupos/dissertacoes-e-tcc" >Dissertações e TCC</a></li><li class="item-120"><a href="/grupos/livros" >Livros</a></li><li class="item-121"><a href="/grupos/artigos-cientificos" >Artigos Científicos</a></li></ul></li><li class="item-106 has-sub parent"><a href="#" >Equipe</a><ul class="sub-menu"><li class="item-110"><a href="/equipe/integrantes" >Integrantes</a></li><li class="item-111"><a href="/equipe/ex-integrantes" >Ex Integrantes</a></li></ul></li><li class="item-122"><a href="/equipamentos" >Equipamentos</a></li><li class="item-126"><a href="/contato" >Contato</a></li></ul>
+<li class="item-101"><a href="/" >O Lab NVH</a></li><li class="item-102 has-sub parent"><a href="/ensino" target="_blank" >Ensino</a><ul class="sub-menu"><li class="item-112"><a href="/ensino/graduacao" >Graduação</a></li><li class="item-113"><a href="/ensino/pos-graduacao" >Pós-Graduação</a></li></ul></li><li class="item-103 active has-sub parent"><a href="#" >Pesquisas</a><ul class="sub-menu"><li class="item-123"><a href="/pesquisas/projetos1-de-pesquisa" >Projetos de Pesquisa</a></li><li class="item-125 current active"><a href="/pesquisas/linhas-de-pesquisa" >Linhas de Pesquisa</a></li></ul></li><li class="item-105 has-sub parent"><a href="#" >Publicações</a><ul class="sub-menu"><li class="item-119"><a href="/grupos/dissertacoes-e-tcc" >Dissertações e TCC</a></li><li class="item-120"><a href="/grupos/livros" >Livros</a></li><li class="item-121"><a href="/grupos/artigos-cientificos" >Artigos Científicos</a></li></ul></li><li class="item-106 has-sub parent"><a href="#" >Equipe</a><ul class="sub-menu"><li class="item-110"><a href="/equipe/integrantes" >Integrantes</a></li><li class="item-111"><a href="/equipe/ex-integrantes" >Ex Integrantes</a></li></ul></li><li class="item-122"><a href="/equipamentos" >Equipamentos</a></li><li class="item-126"><a href="/contato" >Contato</a></li></ul>
 </div>
 
 <script type="text/javascript">
@@ -230,17 +231,29 @@ jQuery(document).ready(function($) {
   if(el) {el.style.display += el.style.display = 'none';}
 </script>
 
-            <div class="item-page" itemscope itemtype="https://schema.org/Article">
-	<meta itemprop="inLanguage" content="pt-BR" />
+            <div class="blog" itemscope itemtype="https://schema.org/Blog">
 	
 		
-			<div class="page-header">
-		<h2 itemprop="headline">
-			QUER FAZER O MESTRADO?		</h2>
-							</div>
+	
+	
+	
+				<div class="items-leading clearfix">
+							<div class="leading-0"
+					itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
 					
+	<div class="page-header">
+					<h2 itemprop="name">
+									<a href="/pesquisas/linhas-de-pesquisa/31-linhas-de-pesquisa" itemprop="url">
+						Linhas de Pesquisa					</a>
+							</h2>
 		
-						<dl class="article-info muted">
+		
+		
+			</div>
+
+
+
+			<dl class="article-info muted">
 
 		
 			<dt class="article-info-term">
@@ -252,48 +265,63 @@ jQuery(document).ready(function($) {
 			
 										<dd class="published">
 				<span class="icon-calendar" aria-hidden="true"></span>
-				<time datetime="2015-10-14T18:13:00+00:00" itemprop="datePublished">
-					Publicado: 14 Outubro 2015				</time>
+				<time datetime="2015-08-27T18:44:37+00:00" itemprop="datePublished">
+					Publicado: 27 Agosto 2015				</time>
 			</dd>			
 		
 					
 			
 						</dl>
-	
-	
-		
-								<div itemprop="articleBody">
-		<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"> </p>
-<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; text-align: center; line-height: normal;" align="center"><b><span style="font-size: 16pt; font-family: Tahoma, sans-serif;">Mestrado Acadêmico do Programa de Pós-Graduação em Integridade de Materiais da Engenharia</span></b></p>
-<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10pt; font-family: Tahoma, sans-serif;"> </span></p>
-<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><b><span style="font-size: 12pt; font-family: Tahoma, sans-serif;">Terminou a graduação? Está no mercado de trabalho mas sente a necessidade de aumentar seu conhecimento? Se interessa pela área de acústica e vibrações?</span></b></p>
-<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><b><span style="font-size: 12pt; font-family: Tahoma, sans-serif;">Venha fazer o mestrado.</span></b></p>
-<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 12pt; font-family: Tahoma, sans-serif;"> </span></p>
-<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 12pt; font-family: Tahoma, sans-serif;">A Faculdade UnB Gama terá prazer em lhe receber. </span></p>
-<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 12pt; font-family: Tahoma, sans-serif;">Para saber mais acesse o site oficial da Pós-graduação:</span></p>
-<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 12pt; font-family: Tahoma, sans-serif;"><a href="http://www.pgintegridade.unb.br/">http://www.pgintegridade.unb.br/</a></span></p>
-<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 12pt; font-family: Tahoma, sans-serif;"> </span></p>
-<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 12pt; font-family: Tahoma, sans-serif;">O edital de seleção você encontrará neste link:</span></p>
-<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 12.0pt; mso-bidi-font-size: 9.0pt; font-family: 'Tahoma','sans-serif'; mso-fareast-font-family: 'Times New Roman'; color: #1b57b1; mso-fareast-language: PT-BR;"><a href="http://www.pgintegridade.unb.br/index.php?option=com_content&amp;view=article&amp;id=7&amp;Itemid=378">http://www.pgintegridade.unb.br/index.php?option=com_content&amp;view=article&amp;id=7&amp;Itemid=378</a></span></p>
-<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 12.0pt; mso-bidi-font-size: 9.0pt; font-family: 'Tahoma','sans-serif'; mso-fareast-font-family: 'Times New Roman'; color: #1b57b1; mso-fareast-language: PT-BR;"> </span></p>
-<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><b><u><span style="font-size: 12pt; font-family: Tahoma, sans-serif;">Temas de interesse:</span></u></b></p>
-<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 12pt; font-family: Tahoma, sans-serif;">- Controle de ruído e vibrações</span></p>
-<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 12pt; font-family: Tahoma, sans-serif;">- Controle ativo de ruído</span></p>
-<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 12pt; font-family: Tahoma, sans-serif;">- Ruído e vibrações veiculares</span></p>
-<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 12pt; font-family: Tahoma, sans-serif;">- Manutenção preditiva e detecção de defeitos em máquinas rotativas</span></p>
-<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 12pt; font-family: Tahoma, sans-serif;">- Acústica estrutural</span></p>
-<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 12pt; font-family: Tahoma, sans-serif;">- Acústica arquitetônica</span></p>
-<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 12pt; font-family: Tahoma, sans-serif;">- Acústica de dutos e filtros acústicos</span></p>
-<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 12pt; font-family: Tahoma, sans-serif;">- Vibrações no corpo humano e Ruído ocupacional.</span></p>
-<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10pt; font-family: Tahoma, sans-serif;"> </span></p>
-<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 12pt; font-family: Tahoma, sans-serif;">Orientadora:</span></p>
-<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 12pt; font-family: Tahoma, sans-serif;">Prof. Dr. Maria Alzira de Araújo Nunes - UnB/FGA</span></p>
-<p class="MsoNormal" style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 12pt; font-family: Tahoma, sans-serif;">CV Lattes: <a title="http://lattes.cnpq.br/6122858958268866" href="http://lattes.cnpq.br/6122858958268866"><span style="color: #333333;">http://lattes.cnpq.br/6122858958268866</span></a></span></p>
-<p class="MsoNormal"><span style="font-size: 12pt;"> </span> </p>
-<p class="MsoNormal"> </p> 	</div>
 
+
+
+
+<p class="MsoNormal" style="margin-bottom: 0.0001pt; line-height: normal; vertical-align: baseline; text-align: center;"><span style="text-decoration: underline; font-size: 12pt;"><b><span style="font-family: Arial, 'sans-serif'; border: 1pt none windowtext; padding: 0in;">Prof. Maria Alzira de Araújo Nunes</span></b></span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; margin-bottom: .0001pt; line-height: normal; vertical-align: baseline;"> </p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; margin-bottom: .0001pt; line-height: normal; vertical-align: baseline;"><b><span style="font-size: 12.0pt; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; border: none windowtext 1.0pt; mso-border-alt: none windowtext 0in; padding: 0in; mso-ansi-language: EN-US;">1.Acústica de Dutos</span></b></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; margin-bottom: .0001pt; mso-line-height-alt: 11.25pt; vertical-align: baseline;"><span style="font-size: 12.0pt; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US;">Estudo da propagação sonora no interior de dutos;</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; margin-bottom: .0001pt; mso-line-height-alt: 11.25pt; vertical-align: baseline;"><span style="font-size: 12.0pt; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US;">Controle de ruído passivo;</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; margin-bottom: .0001pt; mso-line-height-alt: 11.25pt; vertical-align: baseline;"><span style="font-size: 12.0pt; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US;">Controle ativo de ruído;</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; margin-bottom: .0001pt; mso-line-height-alt: 11.25pt; vertical-align: baseline;"><span style="font-family: Arial, sans-serif;"><span style="font-size: 16px;">Silenciadores / Filtros Acústicos (<em>Mufflers</em>);</span></span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; margin-bottom: .0001pt; mso-line-height-alt: 11.25pt; vertical-align: baseline;"> </p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; margin-bottom: .0001pt; mso-line-height-alt: 11.25pt; vertical-align: baseline;"><b><span style="font-size: 12.0pt; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; border: none windowtext 1.0pt; mso-border-alt: none windowtext 0in; padding: 0in; mso-ansi-language: EN-US;">2. Vibração no Corpo Humano</span></b></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; margin-bottom: .0001pt; mso-line-height-alt: 11.25pt; vertical-align: baseline;"><span style="font-size: 12.0pt; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US;">Estudo da vibração transmitida ao corpo humano através de sistemas vibratórios;</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; margin-bottom: .0001pt; mso-line-height-alt: 11.25pt; vertical-align: baseline;"><span style="font-size: 12.0pt; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US;">Vibração ocupacional;</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; margin-bottom: .0001pt; line-height: normal; vertical-align: baseline;"><span style="font-family: Arial, 'sans-serif'; font-size: 12pt;">Vibração veicular transmitida ao condutor e passageiro.</span> </p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; margin-bottom: .0001pt; line-height: normal; vertical-align: baseline;"> </p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; margin-bottom: .0001pt; line-height: normal; vertical-align: baseline;"><b><span style="font-size: 12.0pt; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; border: none windowtext 1.0pt; mso-border-alt: none windowtext 0in; padding: 0in; mso-ansi-language: EN-US;">3.Vibração e Acústica Veicular</span></b></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; margin-bottom: .0001pt; line-height: normal; vertical-align: baseline;"><span style="font-family: Arial, sans-serif; font-size: 16px;">Controle de ruído e vibrações dos principais sistemas veiculares.</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; margin-bottom: .0001pt; line-height: normal; vertical-align: baseline;"> </p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; margin-bottom: .0001pt; line-height: normal; vertical-align: baseline;"><b><span style="font-size: 12.0pt; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; border: none windowtext 1.0pt; mso-border-alt: none windowtext 0in; padding: 0in; mso-ansi-language: EN-US;">4.Materiais Acústicos</span></b></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; margin-bottom: .0001pt; line-height: normal; vertical-align: baseline;"><span style="font-family: Arial, sans-serif; font-size: 16px;">Caracterização acústica de materiais acústicos.</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; margin-bottom: .0001pt; line-height: normal; vertical-align: baseline;"><span style="font-family: Arial, sans-serif; font-size: 16px;">Tudo de impedância acústica.</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; margin-bottom: .0001pt; line-height: normal; vertical-align: baseline;"> </p>
+<p class="MsoNormal" style="margin-bottom: 0.0001pt; vertical-align: baseline; text-align: center;"><span style="text-decoration: underline; font-size: 12pt;"><b><span style="font-family: Arial, 'sans-serif'; border: 1pt none windowtext; padding: 0in;">Prof. Renato Vilela Lopes</span></b></span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; margin-bottom: .0001pt; mso-line-height-alt: 11.25pt; vertical-align: baseline;"> </p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; margin-bottom: .0001pt; mso-line-height-alt: 11.25pt; vertical-align: baseline;"><span style="font-size: 12pt;"><b><span style="font-family: Arial, 'sans-serif'; border: 1pt none windowtext; padding: 0in;">1. Técnicas de controle aplicada ao Controle ativo de ruído</span></b></span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; margin-bottom: .0001pt; mso-line-height-alt: 11.25pt; vertical-align: baseline;"><span style="font-family: Arial, sans-serif;"><span style="font-size: 16px;"> </span></span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; margin-bottom: .0001pt; mso-line-height-alt: 11.25pt; vertical-align: baseline;"> </p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; margin-bottom: .0001pt; line-height: normal; vertical-align: baseline;"> </p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; margin-bottom: .0001pt; mso-line-height-alt: 11.25pt; vertical-align: baseline;"> </p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; margin-bottom: .0001pt; line-height: normal; vertical-align: baseline;"> </p>
+<p class="MsoNormal" style="margin-bottom: .0001pt; mso-line-height-alt: 11.25pt; vertical-align: baseline;"> </p>
+<p class="MsoNormal" style="margin-bottom: .0001pt; mso-line-height-alt: 11.25pt; vertical-align: baseline;"> </p>
+<p class="MsoNormal"><span lang="PT-BR" style="font-size: 12.0pt; line-height: 115%; font-family: 'Arial','sans-serif';"> </span></p>
+<p class="MsoNormal" style="margin-bottom: .0001pt; mso-line-height-alt: 11.25pt; vertical-align: baseline;"> </p>
+<p class="MsoNormal"> </p>
+<p class="MsoNormal" style="margin-bottom: .0001pt; line-height: 11.25pt; vertical-align: baseline;"> </p>
+<p> </p>
+<p class="MsoNormal"> </p>
+
+
+
+				</div>
+									</div><!-- end items-leading -->
 	
-							</div>
+	
+	
+	
+		</div>
 
            
          
@@ -325,13 +353,13 @@ jQuery(document).ready(function($) {
             
               <ul class="latestnews mod-list">
 	<li itemscope itemtype="https://schema.org/Article">
-		<a href="/news1/33-noc4/4-sobrac2023" itemprop="url">
+		<a href="/pesquisas/linhas-de-pesquisa/33-noc4/4-sobrac2023" itemprop="url">
 			<span itemprop="name">
 				XXX Encontro da Sociedade Brasileira de Acústica | Sobrac 2023			</span>
 		</a>
 	</li>
 	<li itemscope itemtype="https://schema.org/Article">
-		<a href="/news1/41-more2/24-sobrac" itemprop="url">
+		<a href="/pesquisas/linhas-de-pesquisa/41-more2/24-sobrac" itemprop="url">
 			<span itemprop="name">
 				SOCIEDADE BRASILEIRA DE ACÚSTICA			</span>
 		</a>
@@ -343,7 +371,7 @@ jQuery(document).ready(function($) {
 		</a>
 	</li>
 	<li itemscope itemtype="https://schema.org/Article">
-		<a href="/news1/34-more/29-mais" itemprop="url">
+		<a href="/pesquisas/linhas-de-pesquisa/34-more/29-mais" itemprop="url">
 			<span itemprop="name">
 				EVENTOS DE ACÚSTICA E VIBRAÇÕES			</span>
 		</a>
